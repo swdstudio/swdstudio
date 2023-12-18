@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Python!
 - Here are what I have learnt:
 - C,Cpp,Java,Pascal,Python,nasm
-- I'm going to learn JavaSript
+- I'm going to learn JavaScript
 - 
 - 📫 How to reach me ?
 - Send an email to <swd_studio@outlook.com> !
